@@ -9,6 +9,7 @@
   + big binaries (eg: `.exe`);
   + libraries (eg: `node_modules`, `bower_components` etc.).
 + use a common `.gitignore` like the one found in **this repo** (language and project-agnostic):
++ if there are important root folders, use one level of nesting for `.gitignore` (a main `.gitignore` for the main problems, and shallow nested `.gitignores` for specific files or folders) - this allows for cleaner root gitignore, and easier tracking of files that should be removed from `.gitignore`
 + `TODO`: some Git workflow described here ?
 
 

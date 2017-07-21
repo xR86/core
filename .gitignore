@@ -24,3 +24,7 @@ assets/*
 
 # Keep a separate <repo-name>-extra folder or put it here in root
 # extra/*
+
+## Ignore py
+__pycache__
+.cache
