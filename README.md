@@ -17,7 +17,9 @@ My main repo for pointing to other repos and writing core policies for all repos
 
 ## Core policies in repo:
 
-`TODO`: Automate this by unit tests and a Travis build ?
+`TODO`: Automate this by unit tests and a Travis build ?  
+Simplest would be to use Python scripts and repos language, but: [github.com/travis-ci/travis-ci/issues/4090](https://github.com/travis-ci/travis-ci/issues/4090)
+
 
 #### Accesibility:
 + use topics in repo - easier to be found, indexed ...
@@ -28,7 +30,8 @@ My main repo for pointing to other repos and writing core policies for all repos
   + build status
   + code coverage
   + extra ... downloads / slack / other CIs / etc.
-
++ code quality: :star2::star2::star2: / 5
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 #### Manage churn (code documentation and backlog):
 + leave `TODO` comments:
