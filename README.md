@@ -1,4 +1,4 @@
-# core [![license](https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000)](https://github.com/xR86/cs-platform/blob/master/LICENSE)
+# core [![travis status](https://travis-ci.org/xR86/core.svg?branch=master)](https://travis-ci.org/xR86/core) [![license](https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000)](https://github.com/xR86/cs-platform/blob/master/LICENSE)
 
 My main repo for pointing to other repos and writing core policies for all repos (usually public repos, private repo will have their own policies)
 
