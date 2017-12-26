@@ -19,6 +19,9 @@
   + patch - something is added
   + ...
 
+### Branches:
++ branch naming
+  + policy for features - eg: 'feature/dice-roller'
 
 ### Code quality:
 + `Proposal`: refactor passes:
