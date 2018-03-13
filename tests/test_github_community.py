@@ -1,5 +1,5 @@
-# python3 test_github_community.py
-# python3 -m unittest test_github_community.py 
+# python3 tests/test_github_community.py
+# python3 -m unittest tests/test_github_community.py
 
 import unittest
 import os

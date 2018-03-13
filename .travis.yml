@@ -4,3 +4,4 @@ python:
 cache: pip
 script:
   - python tests/test_github_community.py
+  - python tests/test_git.py
