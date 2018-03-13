@@ -2,6 +2,12 @@
 
 ## Git requirements
 
+### `git init` templates
+
+Repo should be initialized either through `git init` template or through script.
+
+For the `git init` approach, check [git-scm.com/docs/git-init#git-init---template](https://git-scm.com/docs/git-init#git-init---templatelttemplatedirectorygt).
+
 ### .gitignore:
 + use `.gitignore` for the languages found in that repo, ignoring:
   + compiled files (eg: `.bin`, `.pyc`, `.class` etc.);
