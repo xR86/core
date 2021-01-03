@@ -16,7 +16,17 @@
 **/.ipynb_checkpoints/*
 **/.idea/*
 **/__pycache__/*
+**/.cache/*
 **/.vscode/*
+
+# Ignore Python extras
+**/.coverage
+**/.python-version
+**/htmlcov/*
+
+# Ignore Node.js extras
+**/node_modules/*
+**/package-lock.json
 
 # Misc folders for libraries ...
 **/vendor/*
@@ -30,7 +40,3 @@ assets/*
 
 # Keep a separate <repo-name>-extra folder or put it here in root
 # extra/*
-
-## Ignore py
-__pycache__
-.cache
