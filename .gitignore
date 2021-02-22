@@ -23,6 +23,8 @@
 **/.coverage
 **/.python-version
 **/htmlcov/*
+**/dist/*
+**/*.egg-info/*
 
 # Ignore Node.js extras
 **/node_modules/*
