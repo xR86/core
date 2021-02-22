@@ -36,3 +36,10 @@ For the `git init` approach, check [git-scm.com/docs/git-init#git-init---templat
     + no emoji == no refactor passes
     + evaluating quality of code by the number of emojis (eg: 2 emojis - slightly better than 1 ...)
 
+---
+
+# Further reading
++ https://stackoverflow.com/questions/6976473/what-does-the-term-porcelain-mean-in-git
++ https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
++ https://github.com/gitpython-developers/GitPython
++ https://wiki.duraspace.org/display/fcrepo/git+guidelines+and+best+practices
